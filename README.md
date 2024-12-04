@@ -10,7 +10,7 @@
 - **Data Science Collaboration with DC DLCP**:
   A partnership between Columbia University and the District of Columbia Department of Licensing and Consumer Protection.
   - Focus: Using geospatial analysis to address important topics:
-    - Equitable health facilities access
+    - Access to health facilities and essential services
     - Impact of pharma and healthcare endorsements
    
 ## 📈 About Me:
