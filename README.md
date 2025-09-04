@@ -14,7 +14,7 @@
     - Impact of pharma and healthcare endorsements
    
 ## 📈 About Me:
-I’m passionate about **psychology**, **data science**, **finance**, **behavioral finance** and **marketing**.
+I’m passionate about **psychology**, **data science**, **behavioral data science** and **marketing**.
 
 ## ✨ Interests:
 - Traveling  
