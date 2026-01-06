@@ -99,7 +99,7 @@ Comprehensive sentiment classification pipeline on Stanford Sentiment Treebank.
 ## Technical Skills
 
 **Programming Languages:**  
-`Python` `R` `SQL` `MATLAB`
+`Python` `R` `SQL`
 
 **Machine Learning & Deep Learning:**  
 `scikit-learn` `TensorFlow` `Keras` `PyTorch` `Transfer Learning` `Hyperparameter Optimization`
@@ -111,7 +111,7 @@ Comprehensive sentiment classification pipeline on Stanford Sentiment Treebank.
 `pandas` `NumPy` `Tableau` `matplotlib` `seaborn` `ggplot2` `Streamlit`
 
 **Statistical Methods:**  
-`Regression Analysis` `Multilevel Modeling` `Time Series` `Signal Processing` `Experimental Design`
+`Regression Analysis` `Multilevel Modeling` `Time Series Analysis`
 
 **Other Tools:**  
 `Git/GitHub` `Google Analytics` `BeautifulSoup` `Web Scraping`
