@@ -2,7 +2,7 @@
 
 **Computational Psychology Researcher | Data Scientist**
 
-I'm a recent graduate from Columbia University's **Quantitative Methods in the Social Sciences (QMSS)** program, specializing in applying machine learning and NLP to psychological research. My work focuses on using computational methods to understand mental health, language processing, and human behavior.
+I'm a recent graduate from Columbia University's **Quantitative Methods in the Social Sciences (QMSS)** program, specializing in applying machine learning and NLP to psychological research. My work focuses on using computational methods to understand mental health, language processing, human cognition, emotion and behavior.
 
 ---
 
@@ -45,10 +45,8 @@ Investigating which linguistic features in clinical interview transcripts predic
 
 Research depression biomarkers from wearable and smartphone data.
 
-- Designed feature engineering pipeline for multimodal sensor data (heart rate variability, movement patterns, sleep, phone usage)
-- Developed framework for translating raw physiological signals into clinical indicators
+- Researched feature engineering pipeline for multimodal sensor data (heart rate variability, movement patterns, sleep, phone usage)
 - Conducted literature synthesis on digital biomarkers of depression
-- Established baselines and fluctuation thresholds for behavioral signals
 
 ---
 
