@@ -125,14 +125,6 @@ Comprehensive sentiment classification pipeline on Stanford Sentiment Treebank.
 
 ---
 
-**Interested in:**
-- Computational approaches to mental health
-- NLP for psychological research
-- Digital phenotyping and behavioral sensing
-- Quantitative methods in social/cognitive psychology
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 Email: yz4870@columbia.edu
