@@ -1,15 +1,21 @@
 # 👋 Hi, I'm Yifan Zang
 
-**Computational Psychology Researcher | Data Scientist**
+**Computational Psychology Researcher | Psychology × AI**
 
 I'm a recent graduate from Columbia University's **Quantitative Methods in the Social Sciences (QMSS)** program, specializing in applying machine learning and NLP to psychological research. My work focuses on using computational methods to understand mental health, language processing, human cognition, emotion and behavior.
+
+I'm currently a **Research Assistant at the [CLIC Lab](https://clic-lab.org/), Stony Brook University**, where I work on two projects:
+- **Faithfulness of LLM explanations**
+- **AI feedback & user confidence**
+
+I'm broadly interested in **computational psychology, computational social science, and human–AI interaction**
 
 ---
 
 ## Education
 
 **M.A. in Quantitative Methods in the Social Sciences** (Data Science Focus)  
-*Columbia University* | GPA: 4.04/4.00 | Dec 2025
+*Columbia University* | GPA: 4.00/4.00 | Feb 2026
 
 **B.A. in Psychology**  
 *Stony Brook University* | GPA: 3.85/4.00 | Jan 2021
@@ -18,10 +24,11 @@ I'm a recent graduate from Columbia University's **Quantitative Methods in the S
 
 ## Research Interests
 
+- **Human–AI interaction** (trust, confidence, and how people are influenced by AI feedback)
+- **Faithfulness & interpretability of AI** in clinical contexts
 - **Computational approaches to mental health** (depression detection, digital phenotyping)
 - **Natural language processing** for psychological assessment
-- **Social media & behavioral data analysis**
-- **Machine learning interpretability** in clinical contexts
+- **Social media & behavioral data analysis** (including AI use on social platforms)
 - **Cognitive & social psychology** with quantitative methods
 
 ---
